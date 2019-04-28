@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>cash out</title>
+</head>
+<body style="background-color:MediumSeaGreen;">
+
+<center> <h1>Taker</h1> </center>
+
+<center><p>carrency :<input type="text"id="input"/> </p></center>
+
+<center><p>Need amount :<input type="text"id="input"/> </p></center>
+<center><button onclik = "readData()">summitt</button></center>
+</body>
+</html>
